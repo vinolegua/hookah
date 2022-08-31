@@ -1,0 +1,173 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+
+
+.container {
+    margin: 0vw 10vw;
+    width: 100rem;
+}
+
+.header {
+    background-color: #ECF2F8;
+    height: 100vh;
+    
+}
+
+.header-line {
+    padding-top: 1vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+.header-logosvg{
+    height: 120px;
+    width: 250px;   
+}
+
+
+
+.nav-item {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 16px;
+    
+
+    margin-right: 1vw;
+
+    transition: color 0.35s linear;
+    transition: text-shadow .35s ease-in-out
+}
+.nav-item:hover {
+    color: #6197ed;
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+}
+
+
+.nav1{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 5vw;
+    padding-right: 5vw;
+}
+
+.search {
+    
+    padding-right: 1vw;
+}
+.heart {
+    padding-left: 1vw;
+    padding-right: 1vw;
+}
+.boxs {
+    padding-left: 1vw;
+}
+
+.heart-img {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 16px;
+
+    transition: color 0.35s linear;
+    transition: text-shadow .35s ease-in-out
+}
+
+.heart-img:hover {
+    color: #6197ed;
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+    
+}
+
+
+.search-img {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 16px;
+
+    transition: color 0.35s linear;
+    transition: text-shadow .35s ease-in-out
+    
+}
+.search-img:hover {
+    color: #6197ed;
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+    
+}
+
+.box-img {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 16px;
+
+    transition: color 0.35s linear;
+    transition: text-shadow .35s ease-in-out
+    
+}
+.box-img:hover {
+    color: #6197ed;
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+    
+}
+
+.header-title-center {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.header-title-text {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+    
+
+.logoh1{
+    height: 150px;
+    width: 150px;
+}
+
+.logoimgh {
+    position: relative;
+}
+
+.logoh2 {
+    height: 1600px;
+    width: 1600px;
+    position: absolute;
+    
+    
+    
+}
+.logoh3 {
+    height: 800px;
+    width: 800px;
+    position: absolute;
+    margin-left: 20vw;
+    top: -15vh;
+    
+}
+
+.htt {
+    font-size: 18px;
+    text-shadow: 1px 1px 2px rgb(241, 12, 12);
+}
+.htt1 {
+    font-size: 18px;
+    text-shadow: 1px 1px 2px rgb(12, 73, 241);
+}
+
+
+
+
+
+
+
+
